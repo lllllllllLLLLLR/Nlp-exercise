@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data & models (not published)
+data/
+models_word_vectors/
+tp2_bert_model/
+tp2_ner_outputs/
+TP_ISD2020/

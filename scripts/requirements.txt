@@ -1,0 +1,7 @@
+pip install python==3.8
+pip install torch
+pip install pandas
+pip install scikit-learn
+pip install transformer
+pip install datasets
+pip install accelerate==0.26.0
